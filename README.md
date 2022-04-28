@@ -2,6 +2,8 @@
 
 Check everything Vatis Tech has to offer.
 
+<div align="center"><img src="https://raw.githubusercontent.com/Vatis-Tech/resources/main/img/vatis-tech-resources.jpg" alt="Vatis Tech Resources"/></div>
+
 ## Projects
 
 Open source projects, made simple and easy to use.
