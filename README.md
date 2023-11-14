@@ -2,7 +2,7 @@
 
 Check everything Vatis Tech has to offer.
 
-<div align="center" style="background-color: white;"><img src="https://raw.githubusercontent.com/Vatis-Tech/resources/main/img/logotype-green-black.svg" alt="Vatis Tech Resources"/></div>
+<div align="center" style="background-color: white;"><img src="https://raw.githubusercontent.com/Vatis-Tech/resources/main/img/logotype-green-white.png" alt="Vatis Tech Resources"/></div>
 
 ## Projects
 
